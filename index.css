@@ -53,7 +53,7 @@ p {
     margin: 30px 0;
 }
 
-.vimeo-wrapper {
+.video-wrapper {
     position: fixed;
     top: 0;
     left: 0;
@@ -64,7 +64,7 @@ p {
     overflow: hidden;
 }
  
-.vimeo-wrapper iframe {
+.video-wrapper video {
     width: 100vw;
     height: calc((3/4)*100vw);
     min-height: 100vh;
